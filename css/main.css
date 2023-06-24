@@ -317,18 +317,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2rem;
 }
 
-#skills .skills-progress .skill-wrapper.progress-64 .progress {
+#skills .skills-progress .skill-wrapper.progress-85 .progress {
   clip: rect(auto, auto, auto, auto);
 }
 
-#skills .skills-progress .skill-wrapper.progress-64 .progress .right-side {
+#skills .skills-progress .skill-wrapper.progress-85 .progress .right-side {
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
-#skills .skills-progress .skill-wrapper.progress-64 .progress .left-side {
-  -webkit-transform: rotate(230deg);
-          transform: rotate(230deg);
+#skills .skills-progress .skill-wrapper.progress-85 .progress .left-side {
+  -webkit-transform: rotate(306deg);
+          transform: rotate(306deg);
 }
 
 #skills .skills-progress .skill-wrapper.progress-75 .progress {
@@ -345,27 +345,27 @@ h1, h2, h3, h4, h5, h6 {
           transform: rotate(270deg);
 }
 
-#skills .skills-progress .skill-wrapper.progress-46 .progress .right-side {
+#skills .skills-progress .skill-wrapper.progress-68 .progress .right-side {
   display: none;
 }
 
-#skills .skills-progress .skill-wrapper.progress-46 .progress .left-side {
-  -webkit-transform: rotate(162deg);
-          transform: rotate(162deg);
-}
-
-#skills .skills-progress .skill-wrapper.progress-85 .progress {
-  clip: rect(auto, auto, auto, auto);
-}
-
-#skills .skills-progress .skill-wrapper.progress-85 .progress .right-side {
+#skills .skills-progress .skill-wrapper.progress-68 .progress .left-side {
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
-#skills .skills-progress .skill-wrapper.progress-85 .progress .left-side {
-  -webkit-transform: rotate(306deg);
-          transform: rotate(306deg);
+#skills .skills-progress .skill-wrapper.progress-70 .progress {
+  clip: rect(auto, auto, auto, auto);
+}
+
+#skills .skills-progress .skill-wrapper.progress-70 .progress .right-side {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+#skills .skills-progress .skill-wrapper.progress-70 .progress .left-side {
+  -webkit-transform: rotate(252deg);
+          transform: rotate(252deg);
 }
 
 #experience {
